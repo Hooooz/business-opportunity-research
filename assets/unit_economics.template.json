@@ -1,0 +1,6 @@
+{
+  "model": "first_purchase_subscription",
+  "example_only": false,
+  "notes": "尚未填写。每个情景需注明来源与假设；非订阅模式应替换模型，不硬套。",
+  "scenarios": []
+}

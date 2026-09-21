@@ -1,0 +1,118 @@
+{
+  "package": "business-opportunity-research",
+  "version": "1.0.0",
+  "created": "2026-09-21",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 5717,
+      "sha256": "09049c33e80d8df1b918826ff786afbf59d91340cf198f5f3a3c8d0a841e9fae"
+    },
+    {
+      "path": "SKILL.md",
+      "bytes": 10791,
+      "sha256": "39e556883456e1babf704e57da987978faaad597058f68b87f8839bb64a9ba7c"
+    },
+    {
+      "path": "VALIDATION.md",
+      "bytes": 1382,
+      "sha256": "55c3f20e944bf6e0e101935e922d2bb7d9915fffbc5b814ae05b81a9517779df"
+    },
+    {
+      "path": "assets/brief.template.json",
+      "bytes": 725,
+      "sha256": "5862d98d5bb47c5574ecf98eda400487fcf87b9fc58c108e1669c8c02b7e28a1"
+    },
+    {
+      "path": "assets/handoff.template.md",
+      "bytes": 965,
+      "sha256": "1248db17d1a1a8ca0e09d42b9833463ab342ff7b227173120ed78cebcfb1ffad"
+    },
+    {
+      "path": "assets/report.template.md",
+      "bytes": 2147,
+      "sha256": "637f5dc5efbb2af4e44e1a264281c4b35eba6172c8283b873b55d9735c4e07b5"
+    },
+    {
+      "path": "assets/research-plan.template.md",
+      "bytes": 1594,
+      "sha256": "2403fa3118c39f1dbb6c5703aed0bb04a7b2fe66819642724e0c9b4f115dbca6"
+    },
+    {
+      "path": "assets/unit_economics.example.json",
+      "bytes": 1573,
+      "sha256": "9b91957020a2f5afd620395c2e3807210de997c7584e4fbedd72647f014be132"
+    },
+    {
+      "path": "assets/unit_economics.template.json",
+      "bytes": 203,
+      "sha256": "362a6853520bc73c6e6626d232195838f5641c083aa0ed2e29595a90947539cf"
+    },
+    {
+      "path": "assets/validation-package.template.md",
+      "bytes": 1927,
+      "sha256": "3ecd83f5d1b2a9340100659a4338791ff7dcd87a380d2c400392c53b95caca32"
+    },
+    {
+      "path": "references/01-workflow.md",
+      "bytes": 15773,
+      "sha256": "f5b487f753915a53f1f696eedfa49b8973490ad05ce657f4a522018be4110f0c"
+    },
+    {
+      "path": "references/02-tools-and-search.md",
+      "bytes": 9119,
+      "sha256": "3e01423f56216ad8a30c3eb377499647a11838a366f2ebfd2f264731dd3293e1"
+    },
+    {
+      "path": "references/03-evidence-and-confidence.md",
+      "bytes": 11682,
+      "sha256": "8d28483355b8614f8148b748b73e9018d07dd914d9b5a0b7182664c785b1a7c5"
+    },
+    {
+      "path": "references/04-economics-and-validation.md",
+      "bytes": 10613,
+      "sha256": "cd7c43e57d4a160cc9ecbdc425d91bd60c5d125db2088d5830ea00d2797a5725"
+    },
+    {
+      "path": "references/05-quality-and-handoff.md",
+      "bytes": 7397,
+      "sha256": "83a902e3fa117b315d6f24b71b9c93c8fdc09068187fa353429c9b2d387a2a3a"
+    },
+    {
+      "path": "references/06-case-retrospective.md",
+      "bytes": 4363,
+      "sha256": "ae0267a18c1b8fbfea46719d29e0ee757636469d1ec0e622a1435061ec3e90bb"
+    },
+    {
+      "path": "scripts/audit_research.py",
+      "bytes": 17175,
+      "sha256": "a71dd0ea67a3397b0567037f9873a93488362e3c31551bb88cb9c0d6233e263e"
+    },
+    {
+      "path": "scripts/calculate_economics.py",
+      "bytes": 8724,
+      "sha256": "353b2ed1350e2af81009760fabe47e7d7a640715ce92d1ddfa5546d3b757bd03"
+    },
+    {
+      "path": "scripts/init_research.py",
+      "bytes": 3272,
+      "sha256": "2bc9e9ba9155d9f4f189c0fb66f8afe1e77799ec0c76f1118a5f69ed98969a72"
+    },
+    {
+      "path": "tests/agent_eval_cases.md",
+      "bytes": 2804,
+      "sha256": "d7b3e44598424a35252744d6e814ddf1ef7b6a7f44bc454064aa693da0aaa37b"
+    },
+    {
+      "path": "tests/test-results.txt",
+      "bytes": 2816,
+      "sha256": "88716d2380b231f4eae655ca9c5f62a70390d1db7141c952c666c811b26e7a28"
+    },
+    {
+      "path": "tests/test_scripts.py",
+      "bytes": 14110,
+      "sha256": "2cae4c8afb70ce85fed9677cc40688a241744f330d7873f7c0e80ea6557bfae8"
+    }
+  ],
+  "note": "Checksums detect byte changes, not research validity. Manifest excludes itself."
+}

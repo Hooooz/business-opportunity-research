@@ -1,0 +1,28 @@
+{
+  "skill_version": "1.0.0",
+  "category": null,
+  "as_of": null,
+  "core_question": "这个经营机会值不值得出最小验证包？",
+  "markets": [],
+  "scope_status": "provisional",
+  "languages": [],
+  "platforms": [],
+  "target_user": null,
+  "core_job": null,
+  "included": [],
+  "excluded": [],
+  "business_model": null,
+  "company_context_status": "unknown",
+  "company_assets": [],
+  "budget_limit": null,
+  "constraints": [],
+  "assumptions": [],
+  "tool_inventory": [],
+  "authorizations": {
+    "paid_data_purchase": false,
+    "contact_research_participants": false,
+    "run_ads": false,
+    "collect_payments": false
+  },
+  "notes": "未知不等于没有；授权仅依据用户真实授权更新。"
+}

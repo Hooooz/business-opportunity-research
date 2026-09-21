@@ -1,0 +1,36 @@
+test_base_arithmetic (test_scripts.EconomicsTests.test_base_arithmetic) ... ok
+test_empty_model_rejected (test_scripts.EconomicsTests.test_empty_model_rejected) ... ok
+test_example_flag_preserved (test_scripts.EconomicsTests.test_example_flag_preserved) ... ok
+test_higher_conversion (test_scripts.EconomicsTests.test_higher_conversion) ... ok
+test_install_service_cost (test_scripts.EconomicsTests.test_install_service_cost) ... ok
+test_invalid_ratio (test_scripts.EconomicsTests.test_invalid_ratio) ... ok
+test_missing_and_non_finite_number (test_scripts.EconomicsTests.test_missing_and_non_finite_number) ... ok
+test_model_requires_unique_ids (test_scripts.EconomicsTests.test_model_requires_unique_ids) ... ok
+test_negative_cost (test_scripts.EconomicsTests.test_negative_cost) ... ok
+test_non_positive_base (test_scripts.EconomicsTests.test_non_positive_base) ... ok
+test_wilson_edge_counts (test_scripts.EconomicsTests.test_wilson_edge_counts) ... ok
+test_wilson_invalid_inputs (test_scripts.EconomicsTests.test_wilson_invalid_inputs) ... ok
+test_wilson_small_sample (test_scripts.EconomicsTests.test_wilson_small_sample) ... ok
+test_zero_conversion (test_scripts.EconomicsTests.test_zero_conversion) ... ok
+test_markdown_local_links (test_scripts.PackageTests.test_markdown_local_links) ... ok
+test_skill_name_and_length (test_scripts.PackageTests.test_skill_name_and_length) ... ok
+test_blank_workspace_not_ready (test_scripts.WorkspaceTests.test_blank_workspace_not_ready) ... ok
+test_dependency_cycle (test_scripts.WorkspaceTests.test_dependency_cycle) ... ok
+test_dimension_coverage (test_scripts.WorkspaceTests.test_dimension_coverage) ... ok
+test_duplicate_claim_id (test_scripts.WorkspaceTests.test_duplicate_claim_id) ... ok
+test_estimate_needs_formula (test_scripts.WorkspaceTests.test_estimate_needs_formula) ... ok
+test_exact_locator_and_origin_counts (test_scripts.WorkspaceTests.test_exact_locator_and_origin_counts) ... ok
+test_initialize (test_scripts.WorkspaceTests.test_initialize) ... ok
+test_invalid_action_timestamp (test_scripts.WorkspaceTests.test_invalid_action_timestamp) ... ok
+test_invalid_date (test_scripts.WorkspaceTests.test_invalid_date) ... ok
+test_lead_does_not_support_fact (test_scripts.WorkspaceTests.test_lead_does_not_support_fact) ... ok
+test_malformed_enum_does_not_crash (test_scripts.WorkspaceTests.test_malformed_enum_does_not_crash) ... ok
+test_metric_scope_required (test_scripts.WorkspaceTests.test_metric_scope_required) ... ok
+test_missing_source (test_scripts.WorkspaceTests.test_missing_source) ... ok
+test_refuses_overwrite (test_scripts.WorkspaceTests.test_refuses_overwrite) ... ok
+test_valid_fixture (test_scripts.WorkspaceTests.test_valid_fixture) ... ok
+
+----------------------------------------------------------------------
+Ran 31 tests in 0.025s
+
+OK

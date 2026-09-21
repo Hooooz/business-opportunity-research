@@ -1,0 +1,52 @@
+{
+  "model": "first_purchase_subscription",
+  "example_only": true,
+  "notes": "纯计算演示。所有输入都是假设，不是任何品类、渠道或平台的实测事实。未计固定费用和税费，无续费假设。",
+  "scenarios": [
+    {
+      "id": "illustrative_low_conversion",
+      "currency": "USD",
+      "revenue_period": "first_year",
+      "conversion_window_days": 35,
+      "price": 39.99,
+      "refund_rate": 0.05,
+      "store_fee_rate": 0.15,
+      "variable_cost_per_payer": 5.0,
+      "variable_cost_per_install": 0.0,
+      "install_to_paid_rate": 0.01,
+      "cost_per_install": 1.5,
+      "evidence_basis": "assumption",
+      "claim_ids": []
+    },
+    {
+      "id": "illustrative_base_conversion",
+      "currency": "USD",
+      "revenue_period": "first_year",
+      "conversion_window_days": 35,
+      "price": 39.99,
+      "refund_rate": 0.05,
+      "store_fee_rate": 0.15,
+      "variable_cost_per_payer": 5.0,
+      "variable_cost_per_install": 0.0,
+      "install_to_paid_rate": 0.03,
+      "cost_per_install": 1.5,
+      "evidence_basis": "assumption",
+      "claim_ids": []
+    },
+    {
+      "id": "illustrative_higher_conversion",
+      "currency": "USD",
+      "revenue_period": "first_year",
+      "conversion_window_days": 35,
+      "price": 39.99,
+      "refund_rate": 0.05,
+      "store_fee_rate": 0.15,
+      "variable_cost_per_payer": 5.0,
+      "variable_cost_per_install": 0.0,
+      "install_to_paid_rate": 0.06,
+      "cost_per_install": 1.5,
+      "evidence_basis": "assumption",
+      "claim_ids": []
+    }
+  ]
+}
